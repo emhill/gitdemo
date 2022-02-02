@@ -1,6 +1,5 @@
 # Please put your name in alphabetical order by LAST NAME
 Sami Amsaf
-Naria Rush
 Elizabeth Baker
 Kyle Bethel
 Moe Daif
@@ -8,11 +7,13 @@ Eric Dreitlein
 Emily Hill
 Kaylie Kaffl
 Sasha Korotkyi
-Rob Marsh //test
-Emily Hill
+James Limatu
+Rob Marsh
 Marco Nandalal
 Omar Nasser
-Kaylie Kaffl
-Rob Marsh
 Genesis Perez
+Saksorn Chanpeng
 Seungyoon Paik
+Naria Rush
+Haobin Tan
+Haoda Yu
